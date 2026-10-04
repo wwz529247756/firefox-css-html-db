@@ -1,0 +1,615 @@
+kind,name,consumers,in_scope
+property,-moz-box-flex,"firefox/layout/generic/nsFlexContainerFrame.cpp:1542",yes
+property,-moz-box-ordinal-group,"firefox/layout/generic/CSSOrderAwareFrameIterator.cpp:40; firefox/layout/generic/CSSOrderAwareFrameIterator.h:87",yes
+property,-moz-default-appearance,"firefox/layout/painting/nsDisplayList.cpp:3172",yes
+property,-moz-min-font-size-ratio,"no dedicated reader found",no-readers
+property,line-clamp,"firefox/layout/generic/nsBlockFrame.cpp:1135",yes
+property,-x-lang,"no dedicated reader found",no-readers
+property,-x-text-scale,"no dedicated reader found",no-readers
+property,accent-color,"no dedicated reader found",no-readers
+property,align-content,"firefox/layout/generic/nsBlockFrame.h:570; firefox/layout/generic/nsFlexContainerFrame.cpp:2932; firefox/layout/generic/nsGridContainerFrame.cpp:6556; firefox/layout/generic/WritingModes.h:2350",yes
+property,align-items,"no dedicated reader found",no-readers
+property,align-self,"firefox/layout/generic/AbsoluteContainingBlock.cpp:528; firefox/layout/generic/nsFlexContainerFrame.cpp:537; firefox/layout/generic/nsIFrame.cpp:904",yes
+property,alignment-baseline,"firefox/layout/generic/nsIFrame.cpp:11816; firefox/layout/generic/nsTextFrame.cpp:2001",yes
+property,anchor-name,"firefox/layout/base/AnchorPositioningUtils.cpp:45; firefox/layout/generic/nsIFrame.cpp:872",yes
+property,anchor-scope,"firefox/layout/base/AnchorPositioningUtils.cpp:110",yes
+property,animation-delay,"no dedicated reader found",no-readers
+property,animation-direction,"no dedicated reader found",no-readers
+property,animation-duration,"no dedicated reader found",no-readers
+property,animation-fill-mode,"no dedicated reader found",no-readers
+property,animation-iteration-count,"no dedicated reader found",no-readers
+property,animation-name,"no dedicated reader found",no-readers
+property,animation-play-state,"no dedicated reader found",no-readers
+property,animation-range-end,"no dedicated reader found",no-readers
+property,animation-range-start,"no dedicated reader found",no-readers
+property,animation-timeline,"no dedicated reader found",no-readers
+property,animation-timing-function,"no dedicated reader found",no-readers
+property,appearance,"firefox/layout/base/AccessibleCaret.cpp:100; firefox/layout/base/AccessibleCaret.h:79; firefox/layout/painting/nsDisplayList.cpp:3887; firefox/layout/painting/nsDisplayList.h:4423",yes
+property,aspect-ratio,"firefox/layout/base/LayoutStructs.h:26; firefox/layout/generic/nsBlockFrame.cpp:4513; firefox/layout/generic/nsContainerFrame.cpp:1981; firefox/layout/generic/nsFlexContainerFrame.cpp:611; firefox/layout/generic/nsIFrame.cpp:6751; firefox/layout/generic/nsImageFrame.cpp:615; firefox/layout/generic/nsVideoFrame.cpp:432",yes
+property,backdrop-filter,"firefox/layout/painting/nsDisplayList.cpp:8637",yes
+property,background-color,"firefox/layout/base/PresShell.cpp:5847; firefox/layout/generic/nsContainerFrame.cpp:377; firefox/layout/generic/nsFrameSelection.h:81; firefox/layout/generic/nsTextFrame.cpp:6656; firefox/layout/generic/nsTextPaintStyle.cpp:147; firefox/layout/painting/nsCSSRendering.cpp:1146",yes
+property,background-image,"no dedicated reader found",no-readers
+property,background-position-x,"no dedicated reader found",no-readers
+property,background-position-y,"no dedicated reader found",no-readers
+property,background-repeat,"no dedicated reader found",no-readers
+property,background-size,"no dedicated reader found",no-readers
+property,baseline-shift,"firefox/layout/generic/nsLineLayout.cpp:2231; firefox/layout/generic/nsTextFrame.cpp:2006",yes
+property,baseline-source,"firefox/layout/generic/nsLineLayout.cpp:1360",yes
+property,block-size,"firefox/layout/generic/TextOverflow.cpp:280; firefox/layout/generic/TextOverflow.h:260",yes
+property,border-spacing,"no dedicated reader found",no-readers
+property,bottom,"no dedicated reader found",no-readers
+property,box-shadow,"firefox/layout/base/nsLayoutUtils.cpp:8223; firefox/layout/painting/nsCSSRendering.cpp:1413; firefox/layout/painting/nsDisplayList.cpp:4555",yes
+property,break-after,"firefox/layout/generic/nsIFrame.cpp:12591",yes
+property,break-before,"firefox/layout/generic/nsFlexContainerFrame.cpp:5865; firefox/layout/generic/nsIFrame.cpp:12586",yes
+property,break-inside,"firefox/layout/generic/BlockReflowState.cpp:907; firefox/layout/generic/nsContainerFrame.cpp:2397",yes
+property,caption-side,"no dedicated reader found",no-readers
+property,caret-color,"firefox/layout/generic/nsIFrame.cpp:2689",yes
+property,clear,"firefox/layout/generic/BlockReflowState.cpp:752; firefox/layout/generic/nsBlockReflowContext.cpp:160; firefox/layout/generic/WritingModes.h:2375",yes
+property,clip,"firefox/layout/base/nsLayoutUtils.cpp:6843; firefox/layout/generic/nsIFrame.cpp:2772; firefox/layout/painting/DisplayItemClipChain.cpp:17; firefox/layout/painting/DisplayItemClipChain.h:64; firefox/layout/painting/DisplayListClipState.cpp:40; firefox/layout/painting/DisplayListClipState.h:173; firefox/layout/painting/nsCSSRendering.cpp:2057; firefox/layout/painting/nsCSSRenderingBorders.cpp:3353",yes
+property,clip-path,"firefox/layout/generic/nsIFrame.cpp:3091; firefox/layout/painting/nsDisplayList.cpp:8380",yes
+property,clip-rule,"no dedicated reader found",no-readers
+property,color,"firefox/layout/base/PresShell.cpp:5667; firefox/layout/base/PresShell.h:151; firefox/layout/generic/nsCanvasFrame.cpp:295; firefox/layout/generic/nsContainerFrame.cpp:338; firefox/layout/generic/nsFrameSetFrame.cpp:113; firefox/layout/generic/nsIFrame.cpp:2696; firefox/layout/generic/nsIFrame.h:4451; firefox/layout/generic/nsImageFrame.cpp:1768",yes
+property,color-scheme,"no dedicated reader found",no-readers
+property,column-count,"firefox/layout/generic/ColumnSetWrapperFrame.cpp:173; firefox/layout/generic/nsColumnSetFrame.cpp:279",yes
+property,column-gap,"firefox/layout/generic/ColumnUtils.cpp:19; firefox/layout/generic/nsFlexContainerFrame.cpp:4758; firefox/layout/generic/nsGridContainerFrame.cpp:4224",yes
+property,column-rule-color,"firefox/layout/generic/nsColumnSetFrame.cpp:208",yes
+property,column-rule-style,"firefox/layout/generic/nsColumnSetFrame.cpp:193",yes
+property,column-rule-width,"no dedicated reader found",no-readers
+property,column-width,"firefox/layout/generic/ColumnSetWrapperFrame.cpp:166; firefox/layout/generic/nsColumnSetFrame.cpp:302",yes
+property,contain,"no dedicated reader found",no-readers
+property,contain-intrinsic-block-size,"no dedicated reader found",no-readers
+property,contain-intrinsic-height,"no dedicated reader found",no-readers
+property,contain-intrinsic-inline-size,"no dedicated reader found",no-readers
+property,contain-intrinsic-width,"no dedicated reader found",no-readers
+property,container-name,"no dedicated reader found",no-readers
+property,container-type,"firefox/layout/base/nsPresContext.cpp:1087; firefox/layout/generic/nsBlockFrame.cpp:7311; firefox/layout/generic/nsGridContainerFrame.cpp:10715",yes
+property,content,"firefox/layout/base/ContainStyleScopeManager.cpp:23; firefox/layout/base/ContainStyleScopeManager.h:36; firefox/layout/base/nsCaret.cpp:327; firefox/layout/base/nsCaret.h:141; firefox/layout/base/nsCSSFrameConstructor.cpp:2010; firefox/layout/base/nsCSSFrameConstructor.h:1059; firefox/layout/base/PresShell.cpp:2151; firefox/layout/base/PresShell.h:185",yes
+property,content-visibility,"no dedicated reader found",no-readers
+property,counter-increment,"firefox/layout/base/nsCounterManager.cpp:426",yes
+property,counter-reset,"firefox/layout/base/nsCounterManager.cpp:427",yes
+property,counter-set,"firefox/layout/base/nsCounterManager.cpp:427",yes
+property,cursor,"firefox/layout/generic/nsIFrame.h:2534",yes
+property,d,"no dedicated reader found",no-readers
+property,display,"firefox/layout/base/nsCSSFrameConstructor.cpp:1987; firefox/layout/base/nsCSSFrameConstructor.h:791; firefox/layout/base/nsPresContext.cpp:1522; firefox/layout/generic/nsFlexContainerFrame.cpp:2997; firefox/layout/generic/nsIFrame.cpp:2478; firefox/layout/generic/nsIFrameInlines.h:52; firefox/layout/generic/ReflowInput.cpp:2233; firefox/layout/generic/ScrollContainerFrame.cpp:5921",yes
+property,fill,"firefox/layout/generic/nsTextFrame.cpp:5500; firefox/layout/generic/nsTextPaintStyle.cpp:94; firefox/layout/painting/nsCSSRenderingBorders.cpp:3426; firefox/layout/painting/nsCSSRenderingBorders.h:301",yes
+property,fill-opacity,"no dedicated reader found",no-readers
+property,fill-rule,"no dedicated reader found",no-readers
+property,filter,"firefox/layout/painting/nsDisplayList.cpp:8736",yes
+property,flex-basis,"firefox/layout/generic/nsFlexContainerFrame.cpp:1478; firefox/layout/generic/nsIFrame.cpp:2537; firefox/layout/generic/ReflowInput.cpp:891",yes
+property,flex-line-count,"no dedicated reader found",no-readers
+property,flex-grow,"firefox/layout/generic/nsFlexContainerFrame.cpp:576",yes
+property,flex-shrink,"firefox/layout/generic/nsFlexContainerFrame.cpp:576",yes
+property,float,"firefox/layout/generic/nsLineBox.h:348; firefox/layout/generic/WritingModes.h:2355",yes
+property,flood-color,"no dedicated reader found",no-readers
+property,flood-opacity,"no dedicated reader found",no-readers
+property,font-family,"no dedicated reader found",no-readers
+property,font-feature-settings,"no dedicated reader found",no-readers
+property,font-language-override,"no dedicated reader found",no-readers
+property,font-palette,"no dedicated reader found",no-readers
+property,font-size,"no dedicated reader found",no-readers
+property,font-size-adjust,"no dedicated reader found",no-readers
+property,font-width,"no dedicated reader found",no-readers
+property,font-style,"no dedicated reader found",no-readers
+property,font-synthesis-position,"no dedicated reader found",no-readers
+property,font-synthesis-small-caps,"no dedicated reader found",no-readers
+property,font-synthesis-style,"no dedicated reader found",no-readers
+property,font-synthesis-weight,"no dedicated reader found",no-readers
+property,font-variant-alternates,"no dedicated reader found",no-readers
+property,font-variant-east-asian,"no dedicated reader found",no-readers
+property,font-variant-ligatures,"no dedicated reader found",no-readers
+property,font-variant-numeric,"no dedicated reader found",no-readers
+property,font-variation-settings,"no dedicated reader found",no-readers
+property,font-weight,"no dedicated reader found",no-readers
+property,grid-auto-columns,"firefox/layout/generic/nsGridContainerFrame.cpp:1595",yes
+property,grid-auto-flow,"firefox/layout/generic/nsGridContainerFrame.cpp:5383",yes
+property,grid-auto-rows,"firefox/layout/generic/nsGridContainerFrame.cpp:1595",yes
+property,grid-column-end,"firefox/layout/generic/nsGridContainerFrame.cpp:4860",yes
+property,grid-column-start,"firefox/layout/generic/nsGridContainerFrame.cpp:4860",yes
+property,grid-row-end,"firefox/layout/generic/nsGridContainerFrame.cpp:1340",yes
+property,grid-row-start,"firefox/layout/generic/nsGridContainerFrame.cpp:4863",yes
+property,grid-template-areas,"firefox/layout/generic/nsGridContainerFrame.cpp:2504",yes
+property,grid-template-columns,"firefox/layout/generic/nsGridContainerFrame.cpp:1593; firefox/layout/generic/nsIFrame.cpp:2568",yes
+property,grid-template-rows,"firefox/layout/generic/nsGridContainerFrame.cpp:1593; firefox/layout/generic/nsIFrame.cpp:2569",yes
+property,height,"firefox/layout/generic/nsIFrame.cpp:912; firefox/layout/painting/nsImageRenderer.cpp:43; firefox/layout/painting/nsImageRenderer.h:35",yes
+property,image-rendering,"firefox/layout/generic/nsIFrame.h:2514; firefox/layout/generic/nsSubDocumentFrame.cpp:841",yes
+property,-moz-image-decoding,"firefox/layout/generic/nsIFrame.h:2517",yes
+property,inline-size,"no dedicated reader found",no-readers
+property,inset-block-end,"no dedicated reader found",no-readers
+property,inset-block-start,"no dedicated reader found",no-readers
+property,inset-inline-end,"no dedicated reader found",no-readers
+property,inset-inline-start,"no dedicated reader found",no-readers
+property,justify-content,"firefox/layout/generic/nsFlexContainerFrame.cpp:1334; firefox/layout/generic/WritingModes.h:2350",yes
+property,justify-items,"no dedicated reader found",no-readers
+property,justify-self,"firefox/layout/generic/AbsoluteContainingBlock.cpp:533; firefox/layout/generic/nsIFrame.cpp:905",yes
+property,left,"no dedicated reader found",no-readers
+property,letter-spacing,"firefox/layout/generic/nsTextFrame.cpp:1957; firefox/layout/generic/nsTextFrame.h:230",yes
+property,lighting-color,"no dedicated reader found",no-readers
+property,line-height,"firefox/layout/generic/nsLineLayout.cpp:2139; firefox/layout/generic/ReflowInput.cpp:2768; firefox/layout/generic/ReflowInput.h:1003",yes
+property,link-parameters,"firefox/layout/base/nsPresContext.cpp:890; firefox/layout/base/nsPresContext.h:1444",yes
+property,list-style-image,"firefox/layout/base/nsCSSFrameConstructor.cpp:1654; firefox/layout/base/nsLayoutUtils.cpp:957; firefox/layout/generic/nsBlockFrame.cpp:8932; firefox/layout/generic/nsImageFrame.cpp:580",yes
+property,list-style-type,"firefox/layout/base/ContainStyleScopeManager.cpp:197; firefox/layout/base/nsCSSFrameConstructor.cpp:1671; firefox/layout/generic/nsBlockFrame.cpp:8932; firefox/layout/generic/ReflowInput.cpp:97",yes
+property,marker-end,"no dedicated reader found",no-readers
+property,marker-mid,"no dedicated reader found",no-readers
+property,marker-start,"no dedicated reader found",no-readers
+property,masonry-auto-flow,"firefox/layout/generic/nsGridContainerFrame.cpp:8856",yes
+property,math-depth,"no dedicated reader found",no-readers
+property,max-block-size,"no dedicated reader found",no-readers
+property,max-height,"firefox/layout/generic/nsIFrame.cpp:911",yes
+property,max-inline-size,"no dedicated reader found",no-readers
+property,max-width,"firefox/layout/generic/nsIFrame.cpp:910",yes
+property,min-block-size,"no dedicated reader found",no-readers
+property,min-height,"firefox/layout/generic/nsIFrame.cpp:909",yes
+property,min-inline-size,"no dedicated reader found",no-readers
+property,min-width,"firefox/layout/generic/nsIFrame.cpp:908",yes
+property,object-position,"firefox/layout/base/nsLayoutUtils.cpp:3909",yes
+property,offset-anchor,"firefox/layout/base/MotionPathUtils.cpp:591",yes
+property,offset-distance,"firefox/layout/base/MotionPathUtils.cpp:590",yes
+property,offset-path,"firefox/layout/base/MotionPathUtils.cpp:71; firefox/layout/base/nsLayoutUtils.cpp:288; firefox/layout/generic/nsIFrame.cpp:1517; firefox/layout/painting/ActiveLayerTracker.cpp:229; firefox/layout/painting/nsDisplayList.cpp:6489",yes
+property,offset-position,"firefox/layout/base/MotionPathUtils.cpp:570",yes
+property,offset-rotate,"firefox/layout/base/MotionPathUtils.cpp:591",yes
+property,opacity,"firefox/layout/generic/nsIFrame.cpp:1796; firefox/layout/painting/nsCSSRenderingGradients.cpp:1209; firefox/layout/painting/nsDisplayList.cpp:5013; firefox/layout/painting/nsDisplayList.h:5117; firefox/layout/painting/nsDisplayListInvalidation.h:205",yes
+property,order,"firefox/layout/generic/CSSOrderAwareFrameIterator.cpp:32; firefox/layout/generic/CSSOrderAwareFrameIterator.h:88",yes
+property,outline-color,"firefox/layout/painting/nsCSSRendering.cpp:1019",yes
+property,outline-offset,"firefox/layout/painting/nsDisplayList.cpp:4338",yes
+property,outline-style,"firefox/layout/generic/nsIFrame.cpp:2619; firefox/layout/painting/nsCSSRendering.cpp:966; firefox/layout/painting/nsDisplayList.cpp:4294",yes
+property,outline-width,"firefox/layout/generic/nsIFrame.cpp:11041; firefox/layout/painting/nsCSSRendering.cpp:962",yes
+property,overflow-anchor,"firefox/layout/generic/nsIFrame.cpp:1390; firefox/layout/generic/ScrollAnchorContainer.cpp:226",yes
+property,overflow-block,"no dedicated reader found",no-readers
+property,overflow-clip-margin,"firefox/layout/generic/nsIFrame.cpp:2887",yes
+property,overflow-inline,"no dedicated reader found",no-readers
+property,overflow-wrap,"no dedicated reader found",no-readers
+property,overflow-x,"firefox/layout/base/nsLayoutUtils.cpp:1560; firefox/layout/base/ScrollStyles.cpp:39; firefox/layout/generic/nsIFrame.cpp:8818; firefox/layout/generic/TextOverflow.cpp:79",yes
+property,overflow-y,"firefox/layout/base/nsLayoutUtils.cpp:1562; firefox/layout/base/ScrollStyles.cpp:40; firefox/layout/generic/nsIFrame.cpp:8819; firefox/layout/generic/ReflowInput.cpp:533; firefox/layout/generic/TextOverflow.cpp:78",yes
+property,overscroll-behavior-block,"no dedicated reader found",no-readers
+property,overscroll-behavior-inline,"no dedicated reader found",no-readers
+property,overscroll-behavior-x,"firefox/layout/generic/ScrollContainerFrame.cpp:1794",yes
+property,overscroll-behavior-y,"firefox/layout/generic/ScrollContainerFrame.cpp:1795",yes
+property,page,"firefox/layout/base/nsCSSFrameConstructor.cpp:8975; firefox/layout/base/PresShell.h:1018; firefox/layout/generic/nsIFrame.h:1468",yes
+property,page-orientation,"firefox/layout/generic/nsPageFrame.cpp:896",yes
+property,paint-order,"firefox/layout/generic/nsTextFrame.cpp:7923",yes
+property,-moz-context-properties,"no dedicated reader found",no-readers
+property,perspective,"firefox/layout/painting/nsDisplayList.cpp:6440",yes
+property,perspective-origin,"firefox/layout/painting/nsDisplayList.cpp:6455",yes
+property,pointer-events,"no dedicated reader found",no-readers
+property,position,"firefox/layout/base/DisplayPortUtils.cpp:768; firefox/layout/base/nsCSSFrameConstructor.cpp:945; firefox/layout/base/nsLayoutUtils.cpp:1405; firefox/layout/base/nsLayoutUtils.h:2321; firefox/layout/base/PresShell.cpp:4088; firefox/layout/base/ViewportUtils.cpp:246; firefox/layout/generic/nsFlexContainerFrame.cpp:2794; firefox/layout/generic/nsGridContainerFrame.cpp:350",yes
+property,position-anchor,"firefox/layout/base/AnchorPositioningUtils.cpp:844; firefox/layout/base/PresShell.cpp:11655; firefox/layout/generic/AbsoluteContainingBlock.cpp:1649; firefox/layout/generic/nsIFrame.cpp:906",yes
+property,position-area,"firefox/layout/generic/AbsoluteContainingBlock.cpp:520; firefox/layout/generic/nsIFrame.cpp:907",yes
+property,position-try-fallbacks,"firefox/layout/base/AnchorPositioningUtils.cpp:1131; firefox/layout/generic/AbsoluteContainingBlock.cpp:1734; firefox/layout/generic/nsIFrame.cpp:901",yes
+property,position-try-order,"firefox/layout/generic/AbsoluteContainingBlock.cpp:1751; firefox/layout/generic/nsIFrame.cpp:902",yes
+property,position-visibility,"firefox/layout/base/AnchorPositioningUtils.cpp:1186; firefox/layout/generic/AbsoluteContainingBlock.cpp:2368",yes
+property,print-color-adjust,"firefox/layout/base/nsLayoutUtils.cpp:5380; firefox/layout/generic/nsIFrame.cpp:2700",yes
+property,quotes,"firefox/layout/base/nsQuoteList.cpp:53",yes
+property,resize,"firefox/layout/generic/ScrollContainerFrame.cpp:5735",yes
+property,right,"no dedicated reader found",no-readers
+property,rotate,"firefox/layout/base/MotionPathUtils.h:30; firefox/layout/painting/ActiveLayerTracker.cpp:247; firefox/layout/painting/nsDisplayList.cpp:6486; firefox/layout/painting/nsDisplayList.h:6422",yes
+property,row-gap,"firefox/layout/generic/nsFlexContainerFrame.cpp:4758; firefox/layout/generic/nsGridContainerFrame.cpp:4225",yes
+property,scale,"firefox/layout/generic/nsTextFrame.cpp:5217; firefox/layout/painting/ActiveLayerTracker.cpp:247; firefox/layout/painting/nsDisplayList.cpp:6487; firefox/layout/painting/nsDisplayList.h:6423",yes
+property,scroll-snap-align,"firefox/layout/generic/nsIFrame.cpp:1426; firefox/layout/generic/ScrollContainerFrame.cpp:7707",yes
+property,scroll-snap-stop,"firefox/layout/generic/ScrollContainerFrame.cpp:7800; firefox/layout/generic/ScrollSnap.cpp:365; firefox/layout/generic/ScrollSnapInfo.h:117",yes
+property,scroll-snap-type,"firefox/layout/generic/nsIFrame.cpp:1430; firefox/layout/generic/ScrollContainerFrame.cpp:5941; firefox/layout/generic/ScrollSnapInfo.cpp:44",yes
+property,scrollbar-color,"firefox/layout/painting/nsCSSRendering.cpp:2329",yes
+property,-moz-line-scroll-amount,"no dedicated reader found",no-readers
+property,-moz-inert,"no dedicated reader found",no-readers
+property,-moz-user-focus,"no dedicated reader found",no-readers
+property,-moz-theme,"firefox/layout/base/nsPresContext.cpp:409; firefox/layout/base/nsPresContext.h:1249",yes
+property,scrollbar-gutter,"firefox/layout/generic/ScrollContainerFrame.cpp:528",yes
+property,shape-image-threshold,"firefox/layout/generic/BlockReflowState.cpp:687; firefox/layout/generic/nsFloatManager.cpp:2297",yes
+property,shape-margin,"firefox/layout/generic/BlockReflowState.cpp:688; firefox/layout/generic/nsFloatManager.cpp:696",yes
+property,shape-outside,"firefox/layout/generic/BlockReflowState.cpp:686; firefox/layout/generic/nsFloatManager.cpp:2283; firefox/layout/generic/nsIFrame.cpp:1475",yes
+property,size,"firefox/layout/base/AnchorPositioningUtils.cpp:563; firefox/layout/base/AnchorPositioningUtils.h:113; firefox/layout/base/nsGenConList.cpp:45; firefox/layout/base/nsGenConList.h:68; firefox/layout/base/nsLayoutUtils.cpp:7058; firefox/layout/base/nsLayoutUtils.h:2378; firefox/layout/base/nsPresContext.cpp:1034; firefox/layout/base/PresShell.cpp:11806",yes
+property,stop-color,"no dedicated reader found",no-readers
+property,stop-opacity,"no dedicated reader found",no-readers
+property,stroke,"no dedicated reader found",no-readers
+property,stroke-dasharray,"no dedicated reader found",no-readers
+property,stroke-dashoffset,"no dedicated reader found",no-readers
+property,stroke-miterlimit,"no dedicated reader found",no-readers
+property,stroke-opacity,"no dedicated reader found",no-readers
+property,stroke-width,"no dedicated reader found",no-readers
+property,text-align,"firefox/layout/generic/nsBlockFrame.cpp:3678; firefox/layout/generic/nsLineLayout.cpp:3504; firefox/layout/generic/nsTextFrame.cpp:2408; firefox/layout/generic/ReflowInput.cpp:2657",yes
+property,text-align-last,"firefox/layout/generic/nsTextFrame.cpp:2409",yes
+property,text-indent,"firefox/layout/generic/nsBlockFrame.cpp:806; firefox/layout/generic/nsLineLayout.cpp:178; firefox/layout/generic/nsLineLayout.h:560; firefox/layout/generic/nsTextFrame.cpp:5940",yes
+property,text-justify,"firefox/layout/base/nsLayoutUtils.cpp:6903; firefox/layout/generic/nsTextFrame.cpp:3337",yes
+property,text-shadow,"firefox/layout/base/nsLayoutUtils.cpp:3715; firefox/layout/generic/nsTextFrame.cpp:7235; firefox/layout/generic/nsTextPaintStyle.cpp:274; firefox/layout/painting/nsDisplayList.cpp:7902",yes
+property,text-transform,"firefox/layout/generic/MathMLTextRunFactory.cpp:528; firefox/layout/generic/nsTextFrame.cpp:133; firefox/layout/generic/nsTextRunTransformations.cpp:355; firefox/layout/generic/nsTextRunTransformations.h:25",yes
+property,top,"no dedicated reader found",no-readers
+property,touch-action,"firefox/layout/generic/nsIFrame.cpp:6403",yes
+property,transform,"firefox/layout/generic/nsIFrame.cpp:1410; firefox/layout/painting/ActiveLayerTracker.cpp:248; firefox/layout/painting/nsDisplayList.cpp:6281; firefox/layout/painting/nsDisplayList.h:6309; firefox/layout/painting/nsDisplayListInvalidation.h:217; firefox/layout/painting/TransformClipNode.h:29",yes
+property,transform-box,"firefox/layout/base/MotionPathUtils.cpp:33",yes
+property,transform-origin,"firefox/layout/base/MotionPathUtils.cpp:586; firefox/layout/painting/nsDisplayList.cpp:6398",yes
+property,transform-style,"firefox/layout/generic/nsIFrame.cpp:1817",yes
+property,transition-behavior,"no dedicated reader found",no-readers
+property,transition-delay,"no dedicated reader found",no-readers
+property,transition-duration,"no dedicated reader found",no-readers
+property,transition-property,"no dedicated reader found",no-readers
+property,transition-timing-function,"no dedicated reader found",no-readers
+property,translate,"firefox/layout/base/MotionPathUtils.h:29; firefox/layout/painting/ActiveLayerTracker.cpp:247; firefox/layout/painting/nsDisplayList.cpp:6485; firefox/layout/painting/nsDisplayList.h:6421",yes
+property,user-select,"firefox/layout/generic/nsFrameSelection.cpp:277",yes
+property,-moz-force-broken-image-icon,"no dedicated reader found",no-readers
+property,-moz-subtree-hidden-only-visually,"no dedicated reader found",no-readers
+property,-moz-window-input-region-margin,"no dedicated reader found",no-readers
+property,-moz-window-opacity,"no dedicated reader found",no-readers
+property,-moz-window-transform,"no dedicated reader found",no-readers
+property,animation-composition,"no dedicated reader found",no-readers
+property,scroll-timeline-axis,"no dedicated reader found",no-readers
+property,scroll-timeline-name,"no dedicated reader found",no-readers
+property,view-timeline-axis,"no dedicated reader found",no-readers
+property,view-timeline-inset,"no dedicated reader found",no-readers
+property,view-timeline-name,"no dedicated reader found",no-readers
+property,view-transition-class,"no dedicated reader found",no-readers
+property,view-transition-name,"no dedicated reader found",no-readers
+property,vector-effect,"no dedicated reader found",no-readers
+property,cx,"no dedicated reader found",no-readers
+property,cy,"no dedicated reader found",no-readers
+property,mask-image,"no dedicated reader found",no-readers
+property,mask-position-x,"no dedicated reader found",no-readers
+property,mask-position-y,"no dedicated reader found",no-readers
+property,mask-repeat,"no dedicated reader found",no-readers
+property,mask-size,"no dedicated reader found",no-readers
+property,r,"no dedicated reader found",no-readers
+property,rx,"no dedicated reader found",no-readers
+property,ry,"no dedicated reader found",no-readers
+property,x,"firefox/layout/base/GeometryUtils.cpp:499; firefox/layout/generic/ScrollSnap.cpp:176; firefox/layout/generic/ScrollSnapInfo.cpp:32; firefox/layout/generic/ScrollSnapInfo.h:33",yes
+property,y,"firefox/layout/base/GeometryUtils.cpp:499; firefox/layout/generic/ScrollSnap.cpp:175; firefox/layout/generic/ScrollSnapInfo.cpp:34; firefox/layout/generic/ScrollSnapInfo.h:33",yes
+property,width,"firefox/layout/generic/JustificationUtils.h:89; firefox/layout/generic/nsFrameSetFrame.cpp:114; firefox/layout/generic/nsIFrame.cpp:912; firefox/layout/generic/nsLineLayout.cpp:3585; firefox/layout/generic/nsTextFrame.cpp:272; firefox/layout/painting/nsImageRenderer.cpp:43; firefox/layout/painting/nsImageRenderer.h:35",yes
+property,will-change,"firefox/layout/base/nsLayoutDebugger.cpp:96; firefox/layout/generic/nsIFrame.cpp:1797; firefox/layout/generic/ScrollContainerFrame.cpp:6255; firefox/layout/painting/nsDisplayList.cpp:6693",yes
+property,word-break,"firefox/layout/generic/nsTextFrame.cpp:9353",yes
+property,word-spacing,"firefox/layout/generic/nsTextFrame.cpp:1974; firefox/layout/generic/nsTextFrame.h:230",yes
+property,-moz-control-character-visibility,"no dedicated reader found",no-readers
+property,-webkit-text-fill-color,"no dedicated reader found",no-readers
+property,-webkit-text-stroke-color,"no dedicated reader found",no-readers
+property,-webkit-text-stroke-width,"no dedicated reader found",no-readers
+property,forced-color-adjust,"firefox/layout/generic/nsBlockFrame.cpp:8506; firefox/layout/generic/nsIFrame.cpp:2419",yes
+property,hyphenate-character,"firefox/layout/generic/nsTextFrame.cpp:2343",yes
+property,hyphenate-limit-chars,"firefox/layout/generic/nsTextFrame.cpp:1894",yes
+property,line-break,"firefox/layout/generic/nsTextFrame.cpp:2157",yes
+property,ruby-position,"firefox/layout/generic/nsRubyFrame.cpp:356",yes
+property,tab-size,"firefox/layout/generic/nsTextFrame.cpp:3876",yes
+property,text-autospace,"firefox/layout/generic/nsTextFrame.cpp:4107; firefox/layout/generic/nsTextFrame.h:230",yes
+property,text-box-edge,"firefox/layout/generic/nsLineLayout.cpp:1646",yes
+property,text-box-trim,"firefox/layout/generic/BlockReflowState.cpp:79; firefox/layout/generic/nsLineLayout.cpp:2770",yes
+property,text-decoration-skip-ink,"firefox/layout/generic/nsTextFrame.cpp:6455",yes
+property,text-emphasis-color,"firefox/layout/generic/nsTextFrame.cpp:7488",yes
+property,text-emphasis-position,"no dedicated reader found",no-readers
+property,text-emphasis-style,"firefox/layout/generic/nsTextFrame.cpp:5597",yes
+property,text-underline-offset,"firefox/layout/generic/nsTextFrame.cpp:5521; firefox/layout/generic/nsTextFrame.h:965",yes
+property,text-underline-position,"firefox/layout/generic/nsTextFrame.cpp:5326; firefox/layout/generic/nsTextFrame.h:975",yes
+property,writing-mode,"firefox/layout/base/nsBidiPresUtils.cpp:87; firefox/layout/base/nsCSSFrameConstructor.cpp:2370; firefox/layout/base/nsLayoutUtils.cpp:6930; firefox/layout/generic/nsBlockFrame.cpp:3614; firefox/layout/generic/nsBlockReflowContext.cpp:219; firefox/layout/generic/nsBlockReflowContext.h:84; firefox/layout/generic/nsFirstLetterFrame.cpp:490; firefox/layout/generic/nsFloatManager.cpp:36",yes
+property,z-index,"firefox/layout/generic/nsIFrame.cpp:11331; firefox/layout/generic/ScrollContainerFrame.cpp:3480",yes
+property,zoom,"no dedicated reader found",no-readers
+property,border-image-outset,"no dedicated reader found",no-readers
+property,border-image-repeat,"firefox/layout/painting/nsCSSRendering.cpp:700; firefox/layout/painting/nsCSSRenderingBorders.cpp:3825",yes
+property,border-image-slice,"firefox/layout/painting/nsCSSRenderingBorders.cpp:3758",yes
+property,border-image-source,"firefox/layout/generic/nsColumnSetFrame.cpp:244; firefox/layout/generic/nsImageFrame.cpp:1958; firefox/layout/painting/nsCSSRendering.cpp:686; firefox/layout/painting/nsCSSRenderingBorders.cpp:3325",yes
+property,border-image-width,"firefox/layout/painting/nsCSSRenderingBorders.cpp:3777",yes
+property,text-overflow,"firefox/layout/generic/TextOverflow.cpp:306",yes
+property,text-decoration-line,"firefox/layout/generic/nsTextFrame.cpp:5420",yes
+property,text-decoration-color,"firefox/layout/generic/nsTextFrame.cpp:5449",yes
+property,text-decoration-inset,"firefox/layout/generic/nsTextFrame.cpp:5872",yes
+property,initial-letter,"firefox/layout/generic/nsFirstLetterFrame.cpp:292; firefox/layout/generic/nsTextFrame.cpp:10768",yes
+property,text-decoration-thickness,"firefox/layout/generic/nsTextFrame.cpp:5524; firefox/layout/generic/nsTextFrame.h:969",yes
+property,-x-span,"no dedicated reader found",no-readers
+property,border-top-color,"firefox/layout/generic/nsColumnSetFrame.cpp:221",yes
+property,border-right-color,"no dedicated reader found",no-readers
+property,border-bottom-color,"no dedicated reader found",no-readers
+property,border-left-color,"firefox/layout/generic/nsColumnSetFrame.cpp:227",yes
+property,border-block-start-color,"no dedicated reader found",no-readers
+property,border-block-end-color,"no dedicated reader found",no-readers
+property,border-inline-start-color,"no dedicated reader found",no-readers
+property,border-inline-end-color,"no dedicated reader found",no-readers
+property,border-top-style,"no dedicated reader found",no-readers
+property,border-right-style,"no dedicated reader found",no-readers
+property,border-bottom-style,"no dedicated reader found",no-readers
+property,border-left-style,"no dedicated reader found",no-readers
+property,border-block-start-style,"no dedicated reader found",no-readers
+property,border-block-end-style,"no dedicated reader found",no-readers
+property,border-inline-start-style,"no dedicated reader found",no-readers
+property,border-inline-end-style,"no dedicated reader found",no-readers
+property,border-top-width,"no dedicated reader found",no-readers
+property,border-right-width,"no dedicated reader found",no-readers
+property,border-bottom-width,"no dedicated reader found",no-readers
+property,border-left-width,"no dedicated reader found",no-readers
+property,border-block-start-width,"no dedicated reader found",no-readers
+property,border-block-end-width,"no dedicated reader found",no-readers
+property,border-inline-start-width,"no dedicated reader found",no-readers
+property,border-inline-end-width,"no dedicated reader found",no-readers
+property,border-top-left-radius,"no dedicated reader found",no-readers
+property,border-top-right-radius,"no dedicated reader found",no-readers
+property,border-bottom-right-radius,"no dedicated reader found",no-readers
+property,border-bottom-left-radius,"no dedicated reader found",no-readers
+property,border-start-start-radius,"no dedicated reader found",no-readers
+property,border-start-end-radius,"no dedicated reader found",no-readers
+property,border-end-start-radius,"no dedicated reader found",no-readers
+property,border-end-end-radius,"no dedicated reader found",no-readers
+property,corner-top-left-shape,"no dedicated reader found",no-readers
+property,corner-top-right-shape,"no dedicated reader found",no-readers
+property,corner-bottom-right-shape,"no dedicated reader found",no-readers
+property,corner-bottom-left-shape,"no dedicated reader found",no-readers
+property,corner-start-start-shape,"no dedicated reader found",no-readers
+property,corner-start-end-shape,"no dedicated reader found",no-readers
+property,corner-end-start-shape,"no dedicated reader found",no-readers
+property,corner-end-end-shape,"no dedicated reader found",no-readers
+property,margin-top,"no dedicated reader found",no-readers
+property,margin-right,"no dedicated reader found",no-readers
+property,margin-bottom,"no dedicated reader found",no-readers
+property,margin-left,"no dedicated reader found",no-readers
+property,margin-block-start,"no dedicated reader found",no-readers
+property,margin-block-end,"no dedicated reader found",no-readers
+property,margin-inline-start,"no dedicated reader found",no-readers
+property,margin-inline-end,"no dedicated reader found",no-readers
+property,margin-trim,"no dedicated reader found",no-readers
+property,scroll-margin-top,"no dedicated reader found",no-readers
+property,scroll-margin-right,"no dedicated reader found",no-readers
+property,scroll-margin-bottom,"no dedicated reader found",no-readers
+property,scroll-margin-left,"no dedicated reader found",no-readers
+property,scroll-margin-block-start,"no dedicated reader found",no-readers
+property,scroll-margin-block-end,"no dedicated reader found",no-readers
+property,scroll-margin-inline-start,"no dedicated reader found",no-readers
+property,scroll-margin-inline-end,"no dedicated reader found",no-readers
+property,padding-top,"no dedicated reader found",no-readers
+property,padding-right,"no dedicated reader found",no-readers
+property,padding-bottom,"no dedicated reader found",no-readers
+property,padding-left,"no dedicated reader found",no-readers
+property,padding-block-start,"no dedicated reader found",no-readers
+property,padding-block-end,"no dedicated reader found",no-readers
+property,padding-inline-start,"no dedicated reader found",no-readers
+property,padding-inline-end,"no dedicated reader found",no-readers
+property,scroll-padding-top,"no dedicated reader found",no-readers
+property,scroll-padding-right,"no dedicated reader found",no-readers
+property,scroll-padding-bottom,"no dedicated reader found",no-readers
+property,scroll-padding-left,"no dedicated reader found",no-readers
+property,scroll-padding-block-start,"no dedicated reader found",no-readers
+property,scroll-padding-block-end,"no dedicated reader found",no-readers
+property,scroll-padding-inline-start,"no dedicated reader found",no-readers
+property,scroll-padding-inline-end,"no dedicated reader found",no-readers
+property,background-attachment,"no dedicated reader found",no-readers
+property,background-clip,"no dedicated reader found",no-readers
+property,background-origin,"no dedicated reader found",no-readers
+property,background-blend-mode,"no dedicated reader found",no-readers
+property,box-decoration-break,"firefox/layout/base/nsBidiPresUtils.cpp:1806; firefox/layout/generic/BlockReflowState.cpp:90; firefox/layout/generic/nsBlockFrame.cpp:9303; firefox/layout/generic/nsColumnSetFrame.cpp:237; firefox/layout/generic/nsContainerFrameInlines.h:47; firefox/layout/generic/nsFlexContainerFrame.cpp:4561; firefox/layout/generic/nsGridContainerFrame.cpp:8341; firefox/layout/generic/nsIFrame.cpp:1669",yes
+property,-moz-float-edge,"firefox/layout/generic/BlockReflowState.cpp:267",yes
+property,-moz-top-layer,"firefox/layout/base/nsCSSFrameConstructor.cpp:852; firefox/layout/generic/ViewportFrame.cpp:252; firefox/layout/painting/nsDisplayList.cpp:641",yes
+property,-servo-top-layer,"no dedicated reader found",no-readers
+property,scroll-behavior,"firefox/layout/generic/ScrollContainerFrame.cpp:8437",yes
+property,isolation,"firefox/layout/generic/nsIFrame.cpp:1838",yes
+property,backface-visibility,"no dedicated reader found",no-readers
+property,-moz-orient,"firefox/layout/generic/nsContainerFrame.cpp:1934; firefox/layout/generic/ScrollContainerFrame.cpp:5543",yes
+property,column-fill,"firefox/layout/generic/nsColumnSetFrame.cpp:285",yes
+property,column-span,"firefox/layout/generic/ReflowInput.cpp:2301",yes
+property,font-variant-caps,"no dedicated reader found",no-readers
+property,font-kerning,"no dedicated reader found",no-readers
+property,font-variant-emoji,"no dedicated reader found",no-readers
+property,font-variant-position,"no dedicated reader found",no-readers
+property,font-optical-sizing,"no dedicated reader found",no-readers
+property,math-style,"no dedicated reader found",no-readers
+property,math-shift,"no dedicated reader found",no-readers
+property,-moz-osx-font-smoothing,"firefox/layout/generic/TextOverflow.cpp:154; firefox/layout/painting/nsDisplayList.h:6717",yes
+property,visibility,"firefox/layout/base/nsCaret.cpp:142; firefox/layout/base/nsCaret.h:236; firefox/layout/base/nsCSSFrameConstructor.cpp:3906; firefox/layout/generic/nsRubyBaseContainerFrame.cpp:594",yes
+property,direction,"firefox/layout/base/nsBidiPresUtils.cpp:95; firefox/layout/base/nsCaret.cpp:282; firefox/layout/generic/nsBlockFrame.cpp:485; firefox/layout/generic/nsFlexContainerFrame.cpp:6656; firefox/layout/generic/nsFrameSelection.cpp:179; firefox/layout/generic/nsFrameSelection.h:186; firefox/layout/generic/nsIFrame.cpp:1509; firefox/layout/generic/nsIFrame.h:4156",yes
+property,-moz-box-collapse,"no dedicated reader found",no-readers
+property,text-orientation,"firefox/layout/base/nsBidiPresUtils.cpp:89; firefox/layout/base/nsLayoutUtils.cpp:5492; firefox/layout/generic/nsImageFrame.cpp:1783",yes
+property,image-orientation,"no dedicated reader found",no-readers
+property,text-anchor,"no dedicated reader found",no-readers
+property,color-interpolation,"no dedicated reader found",no-readers
+property,color-interpolation-filters,"no dedicated reader found",no-readers
+property,shape-rendering,"no dedicated reader found",no-readers
+property,stroke-linecap,"no dedicated reader found",no-readers
+property,stroke-linejoin,"no dedicated reader found",no-readers
+property,border-collapse,"no dedicated reader found",no-readers
+property,empty-cells,"no dedicated reader found",no-readers
+property,hyphens,"firefox/layout/generic/nsTextFrame.cpp:2973; firefox/layout/generic/nsTextFrame.h:168",yes
+property,-moz-text-size-adjust,"firefox/layout/base/nsLayoutUtils.cpp:8154",yes
+property,ruby-align,"firefox/layout/base/nsBidiPresUtils.cpp:1688; firefox/layout/generic/nsLineLayout.cpp:3024",yes
+property,text-combine-upright,"no dedicated reader found",no-readers
+property,text-rendering,"firefox/layout/base/nsLayoutUtils.cpp:6910",yes
+property,-webkit-text-security,"no dedicated reader found",no-readers
+property,text-wrap-mode,"no dedicated reader found",no-readers
+property,text-wrap-style,"firefox/layout/generic/nsBlockFrame.cpp:1715",yes
+property,list-style-position,"firefox/layout/base/nsCSSFrameConstructor.cpp:5609; firefox/layout/generic/nsBlockFrame.cpp:7361; firefox/layout/generic/nsTextFrame.cpp:5410; firefox/layout/generic/ReflowInput.cpp:2424",yes
+property,flex-direction,"firefox/layout/generic/nsFlexContainerFrame.cpp:4190",yes
+property,flex-wrap,"firefox/layout/generic/nsFlexContainerFrame.cpp:147",yes
+property,box-sizing,"firefox/layout/base/nsLayoutUtils.cpp:4276; firefox/layout/generic/AbsoluteContainingBlock.cpp:920; firefox/layout/generic/nsContainerFrame.cpp:943; firefox/layout/generic/nsFlexContainerFrame.cpp:459; firefox/layout/generic/nsGridContainerFrame.cpp:209; firefox/layout/generic/nsIFrame.cpp:6807; firefox/layout/generic/ReflowInput.cpp:1310",yes
+property,object-fit,"firefox/layout/base/nsLayoutUtils.cpp:3911; firefox/layout/generic/nsSubDocumentFrame.cpp:1198",yes
+property,mask-type,"no dedicated reader found",no-readers
+property,mask-mode,"firefox/layout/painting/nsCSSRendering.cpp:3171",yes
+property,mask-clip,"no dedicated reader found",no-readers
+property,mask-origin,"no dedicated reader found",no-readers
+property,mask-composite,"no dedicated reader found",no-readers
+property,table-layout,"no dedicated reader found",no-readers
+property,unicode-bidi,"firefox/layout/base/nsBidiPresUtils.cpp:93; firefox/layout/generic/nsBlockFrame.cpp:3681; firefox/layout/generic/nsIFrame.cpp:1733; firefox/layout/generic/nsTextFrame.cpp:2092",yes
+property,text-decoration-style,"firefox/layout/generic/nsTextFrame.cpp:5423",yes
+property,ime-mode,"no dedicated reader found",no-readers
+property,scrollbar-width,"no dedicated reader found",no-readers
+property,-moz-scrollbar-inset-block,"firefox/layout/generic/WritingModes.h:2319",yes
+property,-moz-scrollbar-inset-inline,"firefox/layout/generic/WritingModes.h:2320",yes
+property,-moz-window-dragging,"firefox/layout/painting/nsDisplayList.cpp:1857",yes
+property,-moz-window-shadow,"no dedicated reader found",no-readers
+property,field-sizing,"no dedicated reader found",no-readers
+property,-moz-box-align,"firefox/layout/generic/nsFlexContainerFrame.cpp:86",yes
+property,-moz-box-direction,"firefox/layout/generic/nsFlexContainerFrame.cpp:4181",yes
+property,-moz-box-orient,"firefox/layout/generic/nsFlexContainerFrame.cpp:4170",yes
+property,-moz-box-pack,"firefox/layout/generic/nsFlexContainerFrame.cpp:109",yes
+property,mix-blend-mode,"firefox/layout/generic/nsIFrame.cpp:4080",yes
+property,dominant-baseline,"firefox/layout/generic/nsIFrame.cpp:11787",yes
+property,-moz-math-variant,"firefox/layout/generic/MathMLTextRunFactory.cpp:524; firefox/layout/generic/nsTextFrame.cpp:2440; firefox/layout/generic/nsTextRunTransformations.h:26",yes
+property,white-space-collapse,"firefox/layout/generic/nsIFrame.cpp:10048; firefox/layout/generic/nsTextFrame.cpp:933",yes
+property,timeline-scope,"no dedicated reader found",no-readers
+property,margin,"firefox/layout/generic/nsFlexContainerFrame.cpp:616; firefox/layout/generic/nsIFrame.cpp:913; firefox/layout/generic/nsLineLayout.cpp:623; firefox/layout/generic/nsLineLayout.h:426; firefox/layout/generic/WritingModes.h:1228",yes
+property,margin-block,"no dedicated reader found",no-readers
+property,margin-inline,"no dedicated reader found",no-readers
+property,scroll-margin,"firefox/layout/base/AnchorPositioningUtils.cpp:1252",yes
+property,scroll-margin-block,"no dedicated reader found",no-readers
+property,scroll-margin-inline,"no dedicated reader found",no-readers
+property,padding,"firefox/layout/base/nsLayoutUtils.cpp:4339; firefox/layout/generic/AbsoluteContainingBlock.cpp:1056; firefox/layout/generic/IntrinsicISizesCache.h:136; firefox/layout/generic/nsBlockFrame.cpp:3240; firefox/layout/generic/nsContainerFrameInlines.h:51; firefox/layout/generic/nsGridContainerFrame.cpp:215; firefox/layout/generic/nsIFrame.cpp:1384; firefox/layout/generic/nsInlineFrame.cpp:118",yes
+property,padding-block,"no dedicated reader found",no-readers
+property,padding-inline,"no dedicated reader found",no-readers
+property,scroll-padding,"firefox/layout/generic/ScrollContainerFrame.cpp:7933",yes
+property,scroll-padding-block,"no dedicated reader found",no-readers
+property,scroll-padding-inline,"no dedicated reader found",no-readers
+property,border-color,"no dedicated reader found",no-readers
+property,border-style,"firefox/layout/generic/nsImageFrame.cpp:1874",yes
+property,border-width,"no dedicated reader found",no-readers
+property,border-block-color,"no dedicated reader found",no-readers
+property,border-inline-color,"no dedicated reader found",no-readers
+property,border-block-width,"no dedicated reader found",no-readers
+property,border-inline-width,"no dedicated reader found",no-readers
+property,border-block-style,"no dedicated reader found",no-readers
+property,border-inline-style,"no dedicated reader found",no-readers
+property,border-top,"no dedicated reader found",no-readers
+property,border-right,"no dedicated reader found",no-readers
+property,border-bottom,"no dedicated reader found",no-readers
+property,border-left,"no dedicated reader found",no-readers
+property,border-block-start,"no dedicated reader found",no-readers
+property,border-block-end,"no dedicated reader found",no-readers
+property,border-inline-start,"no dedicated reader found",no-readers
+property,border-inline-end,"no dedicated reader found",no-readers
+property,border-block,"no dedicated reader found",no-readers
+property,border-inline,"no dedicated reader found",no-readers
+property,border-image,"no dedicated reader found",no-readers
+property,border,"firefox/layout/generic/nsImageFrame.cpp:1873",yes
+property,overflow,"firefox/layout/generic/nsIFrame.cpp:8682; firefox/layout/generic/nsIFrame.h:773",yes
+property,overscroll-behavior,"no dedicated reader found",no-readers
+property,container,"firefox/layout/base/nsCSSFrameConstructor.cpp:5755; firefox/layout/base/nsCSSFrameConstructor.h:116; firefox/layout/base/nsDocumentViewer.cpp:370; firefox/layout/generic/CSSOrderAwareFrameIterator.h:72",yes
+property,vertical-align,"no dedicated reader found",no-readers
+property,page-break-before,"no dedicated reader found",no-readers
+property,page-break-after,"no dedicated reader found",no-readers
+property,page-break-inside,"no dedicated reader found",no-readers
+property,offset,"firefox/layout/base/nsCaret.cpp:287; firefox/layout/base/nsCaret.h:142; firefox/layout/generic/nsBlockFrame.cpp:1721; firefox/layout/generic/nsFrameSelection.cpp:1440; firefox/layout/generic/nsIFrame.cpp:215; firefox/layout/generic/nsIFrame.h:1753; firefox/layout/generic/nsSubDocumentFrame.cpp:1297; firefox/layout/generic/nsSubDocumentFrame.h:248",yes
+property,-webkit-perspective,"no dedicated reader found",no-readers
+property,-webkit-transform,"firefox/layout/generic/nsIFrame.cpp:1410; firefox/layout/painting/ActiveLayerTracker.cpp:248; firefox/layout/painting/nsDisplayList.cpp:6281; firefox/layout/painting/nsDisplayList.h:6309; firefox/layout/painting/nsDisplayListInvalidation.h:217; firefox/layout/painting/TransformClipNode.h:29",yes
+property,background,"firefox/layout/generic/nsTextFrame.cpp:6603; firefox/layout/generic/nsTextFrame.h:1070; firefox/layout/generic/nsTextPaintStyle.cpp:525",yes
+property,inset,"firefox/layout/generic/nsBlockFrame.cpp:1876; firefox/layout/generic/nsBlockFrame.h:603; firefox/layout/generic/nsLineLayout.cpp:167; firefox/layout/generic/nsLineLayout.h:514; firefox/layout/painting/DisplayItemClip.cpp:487; firefox/layout/painting/DisplayItemClip.h:54",yes
+property,inset-block,"no dedicated reader found",no-readers
+property,inset-inline,"no dedicated reader found",no-readers
+property,contain-intrinsic-size,"no dedicated reader found",no-readers
+property,flex-flow,"no dedicated reader found",no-readers
+property,flex,"no dedicated reader found",no-readers
+property,gap,"firefox/layout/generic/nsGridContainerFrame.cpp:3173",yes
+property,grid-row,"no dedicated reader found",no-readers
+property,grid-column,"no dedicated reader found",no-readers
+property,grid-area,"no dedicated reader found",no-readers
+property,grid-template,"no dedicated reader found",no-readers
+property,grid,"no dedicated reader found",no-readers
+property,place-content,"no dedicated reader found",no-readers
+property,place-self,"no dedicated reader found",no-readers
+property,place-items,"no dedicated reader found",no-readers
+property,position-try,"no dedicated reader found",no-readers
+property,marker,"no dedicated reader found",no-readers
+property,transition,"no dedicated reader found",no-readers
+property,animation,"no dedicated reader found",no-readers
+property,scroll-timeline,"no dedicated reader found",no-readers
+property,view-timeline,"no dedicated reader found",no-readers
+property,animation-range,"no dedicated reader found",no-readers
+property,list-style,"no dedicated reader found",no-readers
+property,background-position,"no dedicated reader found",no-readers
+property,mask,"firefox/layout/generic/nsIFrame.cpp:1367; firefox/layout/painting/nsCSSRendering.cpp:2483; firefox/layout/painting/nsDisplayList.cpp:8207",yes
+property,mask-position,"no dedicated reader found",no-readers
+property,border-radius,"firefox/layout/base/MotionPathUtils.cpp:566; firefox/layout/base/nsLayoutUtils.cpp:6817; firefox/layout/generic/nsIFrame.cpp:1979; firefox/layout/painting/nsCSSRendering.cpp:490; firefox/layout/painting/nsDisplayList.cpp:3276",yes
+property,corner-shape,"firefox/layout/generic/nsIFrame.cpp:1980; firefox/layout/painting/nsCSSRendering.cpp:490",yes
+property,corner-top-shape,"no dedicated reader found",no-readers
+property,corner-right-shape,"no dedicated reader found",no-readers
+property,corner-bottom-shape,"no dedicated reader found",no-readers
+property,corner-left-shape,"no dedicated reader found",no-readers
+property,corner-block-start-shape,"no dedicated reader found",no-readers
+property,corner-block-end-shape,"no dedicated reader found",no-readers
+property,corner-inline-start-shape,"no dedicated reader found",no-readers
+property,corner-inline-end-shape,"no dedicated reader found",no-readers
+property,outline,"no dedicated reader found",no-readers
+property,columns,"no dedicated reader found",no-readers
+property,column-rule,"no dedicated reader found",no-readers
+property,text-decoration,"no dedicated reader found",no-readers
+property,font,"firefox/layout/base/nsLayoutUtils.cpp:4002; firefox/layout/generic/ColumnUtils.cpp:21; firefox/layout/generic/MathMLTextRunFactory.cpp:443; firefox/layout/generic/nsFontInflationData.cpp:337; firefox/layout/generic/nsIFrame.cpp:2056; firefox/layout/generic/nsTextFrame.cpp:1042; firefox/layout/generic/nsTextRunTransformations.cpp:158; firefox/layout/generic/nsTextRunTransformations.h:22",yes
+property,font-variant,"no dedicated reader found",no-readers
+property,font-synthesis,"no dedicated reader found",no-readers
+property,text-box,"no dedicated reader found",no-readers
+property,text-emphasis,"no dedicated reader found",no-readers
+property,text-wrap,"no dedicated reader found",no-readers
+property,white-space,"no dedicated reader found",no-readers
+property,-webkit-text-stroke,"no dedicated reader found",no-readers
+property,-webkit-line-clamp,"no dedicated reader found",no-readers
+property,-moz-appearance,"firefox/layout/base/AccessibleCaret.cpp:100; firefox/layout/base/AccessibleCaret.h:79; firefox/layout/painting/nsDisplayList.cpp:3887; firefox/layout/painting/nsDisplayList.h:4423",yes
+element,a,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,applet,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,area,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,audio,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,base,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,bgsound,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,blockquote,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,body,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,br,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,button,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,canvas,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,caption,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:99]",yes
+element,col,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:99]",yes
+element,colgroup,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:99]",yes
+element,data,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,datalist,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,del,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,details,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,dialog,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,dir,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,div,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,dl,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,embed,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,fieldset,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:3021]",yes
+element,font,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,form,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:72]",yes
+element,frame,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,frameset,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,h1,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,h2,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,h3,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,h4,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,h5,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,h6,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,head,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,hr,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,html,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,iframe,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,img,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:77]",yes
+element,input,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:3419]",yes
+element,ins,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,keygen,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,label,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:72]",yes
+element,legend,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:3021]",yes
+element,li,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,link,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,listing,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,map,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,marquee,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,menu,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,meta,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,meter,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:72]",yes
+element,multicol,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,object,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,ol,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,optgroup,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,option,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,output,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:72]",yes
+element,p,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,param,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,picture,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,pre,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,progress,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:72]",yes
+element,q,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,script,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,select,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,selectedcontent,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,slot,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,source,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,span,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,style,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,table,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:99]",yes
+element,tbody,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:99]",yes
+element,td,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:99]",yes
+element,textarea,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:72]",yes
+element,tfoot,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:99]",yes
+element,th,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:99]",yes
+element,thead,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:99]",yes
+element,template,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,time,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,title,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,tr,"display-driven generic construction path [firefox/layout/base/nsCSSFrameConstructor.cpp:99]",yes
+element,track,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,ul,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,video,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
+element,xmp,"no tag-specific constructor; frame chosen by computed display via FCDATA tables [firefox/layout/base/nsCSSFrameConstructor.cpp:3363]",yes
